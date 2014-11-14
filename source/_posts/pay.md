@@ -1,6 +1,18 @@
-title:�����ƶ�֧����һЩ�뷨
+title: 关于移动支付的一些想法 
+tags: [ 移动支付,Apple Pay ]
+date: 2014-11-12 18:35
+
 ---
-����������䣬��������ӭ�������ɪɪ��ʱ�ڡ�������iPhone 6�������ȳ�Ҳ�������£��ع����2�����й��ڴ˵����ţ�����ӡ���������Apple Pay���֡�
+最近天气骤冷，深圳终于迎来了秋风瑟瑟的时节。而关于iPhone 6发布的热潮也慢慢降温，回顾最近2个月有关于此的新闻，给我印象最深的是Apple Pay部分。
   
 ###[Google Wallet](http://zh.wikipedia.org/wiki/Google_Wallet)
-��ʵ����3���ǰ��google��������ӿ�Ŀ�ʼ�����ƶ�֧��Google Wallet������ʷ��ǰ������£�����п����ˣ�NFC���̣���������ṩ��Sprint��POS��Ӳ�������Լ�ͨ���չ�GroupOn�Ź���վ�����µĴ������۹�˾�������û�ͨ�������п���֧ͨ�����ܣ���֧�ֵ��̵꣬�͹�ʹ��NFC�Ľ���ͨ�Ž����ƶ�֧�����ѡ���ϧ���Ĳ�����Google Walletȴ��չƽƽ������Ϊ�����ڵ�ʱ���»�����ԭ��֮һ���Ͼ���ʱ������س��̲�δ��ʶ���ƶ�֧����鵰���ж���������ռ�ʱҲδ���ܵ��̼�׷��������һ����Ҫԭ������Google Wallet��ģʽ���ƣ��û�ʹ��ʱ�������Ȱ�
+其实早在3年多前，google就气势汹涌的开始布局移动支付Google Wallet，并且史无前例的拉拢了银行卡联盟，NFC厂商，网络服务提供商Sprint，POS机硬件厂商以及通过收购GroupOn团购网站和线下的大型零售公司合作。用户通过绑定银行卡开通支付功能，在支持的商店，餐馆使用NFC的近场通信进行移动支付消费。可惜雄心勃勃的Google Wallet却发展平平，私以为原因有2个。
+
+
+1.  B端的市场环境不完善。当时各大相关厂商并未意识到移动支付这块蛋糕有多大：运营商Sprint只推出几款Nexus S系列的手机支持NFC，决心支持移动支付的商店也寥寥无几，还有NFC芯片厂商和POS机公司都各怀鬼胎。
+2.  C端的用户习惯。用户使用时，必须先绑定信用卡，虽然支持多重的硬件加密但仍然无法提高用户的信任度，信息及交易的保密性是用户讨论和咨询最多的。
+
+
+
+###[Apple Pay](http://zh.wikipedia.org/wiki/Apple_Pay)
+(未完待续...)
