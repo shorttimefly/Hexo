@@ -8,6 +8,8 @@ tags: [ 智能家居,google,Nest ]
   
 在百度百科中，它有这样的一段解释：*智能家居--是以住宅为平台，利用综合布线技术、网络通信技术、 安全防范技术、自动控制技术、音视频技术将家居生活有关的设施集成，构建高效的住宅设施与家庭日程事务的管理系统，提升家居安全性、便利性、舒适性、艺术性，并实现环保节能的居住环境。*
 
+<!-- more -->
+
 在Wiki中，***Home automation*** 的解释为：*Home automation is the residential extension of building automation. It is automation of the home, housework or household activity. Home automation may include centralized control of lighting, HVAC (heating, ventilation and air conditioning), appliances, security locks of gates and doors and other systems, to provide improved convenience, comfort, energy efficiency and security. Home automation for the elderly and disabled can provide increased quality of life for persons who might otherwise require caregivers or institutional care.*
 
 ### Google的智能家居
